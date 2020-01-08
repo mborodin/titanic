@@ -4,4 +4,4 @@ Kaggle Titanic
 Link on competition:
 https://www.kaggle.com/c/titanic
 
-test from Masha
+test from Masha 2
